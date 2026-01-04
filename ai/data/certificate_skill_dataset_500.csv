@@ -1,0 +1,501 @@
+Student_ID,Name,Course,Certificate_ID,Skills_Claimed,Test_Score,Project_Score,Claimed_Skill_Level,True_Skill_Level,Issue_Date
+1001,Dev Chaudhary,MBA,CERT0001,"Android Development, Excel",75,69,Intermediate,Intermediate,2025-10-28
+1002,Kavya Singh,MBA,CERT0002,SQL,100,82,Advanced,Advanced,2022-06-01
+1003,Karan Nair,M.Tech (CS),CERT0003,"Android Development, Web Development",37,70,Beginner,Beginner,2022-06-23
+1004,Vivaan Singh,M.Tech (CS),CERT0004,Python,51,47,Beginner,Beginner,2023-03-05
+1005,Ishaan Kapoor,BCA,CERT0005,Machine Learning,100,87,Advanced,Advanced,2025-04-21
+1006,Dev Singh,M.Tech (CS),CERT0006,"DevOps, Data Science",67,73,Intermediate,Intermediate,2024-10-29
+1007,Isha Sharma,M.Tech (CS),CERT0007,"Machine Learning, Web Development",50,46,Beginner,Beginner,2023-12-04
+1008,Pooja Singh,Diploma (IT),CERT0008,SQL,76,95,Advanced,Advanced,2025-03-04
+1009,Aarav Kumar,B.Tech (CSE),CERT0009,Cloud Computing,28,66,Intermediate,Beginner,2024-07-03
+1010,Vivaan Sharma,Diploma (IT),CERT0010,Machine Learning,81,79,Advanced,Advanced,2023-07-15
+1011,Meera Nair,B.Tech (IT),CERT0011,"Android Development, Data Science",76,88,Advanced,Advanced,2024-05-24
+1012,Ishaan Ghosh,B.Tech (CSE),CERT0012,Android Development,100,95,Advanced,Advanced,2023-07-20
+1013,Ritika Sharma,MBA,CERT0013,Java,18,50,Beginner,Beginner,2023-10-24
+1014,Deepak Joshi,BCA,CERT0014,Python,87,89,Advanced,Advanced,2022-12-28
+1015,Maya Ghosh,MBA,CERT0015,"Excel, DevOps",34,47,Beginner,Beginner,2024-07-01
+1016,Aditi Mehta,MCA,CERT0016,Data Science,56,75,Intermediate,Intermediate,2025-08-02
+1017,Manav Kapoor,MBA,CERT0017,Cloud Computing,69,55,Intermediate,Intermediate,2023-05-01
+1018,Varun Verma,B.Sc (IT),CERT0018,Python,57,78,Intermediate,Intermediate,2024-03-05
+1019,Sneha Khan,MBA,CERT0019,"Machine Learning, Cloud Computing",90,96,Advanced,Advanced,2024-01-02
+1020,Sai Khan,MBA,CERT0020,Java,68,73,Beginner,Intermediate,2022-01-22
+1021,Meera Singh,M.Tech (CS),CERT0021,SQL,47,67,Advanced,Beginner,2025-10-03
+1022,Manav Desai,B.Sc (IT),CERT0022,Web Development,74,69,Intermediate,Intermediate,2024-03-04
+1023,Ritika Gupta,BBA,CERT0023,"Java, Web Development",68,73,Intermediate,Intermediate,2023-09-23
+1024,Maya Iyer,M.Tech (CS),CERT0024,Web Development,76,84,Advanced,Advanced,2023-11-17
+1025,Arjun Verma,MBA,CERT0025,Android Development,33,64,Beginner,Beginner,2023-08-28
+1026,Dev Nair,Diploma (IT),CERT0026,Android Development,46,60,Beginner,Beginner,2022-01-03
+1027,Riya Verma,B.Tech (IT),CERT0027,"Android Development, Python",48,75,Intermediate,Intermediate,2023-09-10
+1028,Rohan Bhatia,B.Tech (IT),CERT0028,"Machine Learning, Cloud Computing",39,53,Beginner,Beginner,2025-07-18
+1029,Neha Bose,B.Tech (IT),CERT0029,"DevOps, SQL",57,56,Beginner,Beginner,2024-03-09
+1030,Shreya Kumar,BCA,CERT0030,Excel,57,79,Intermediate,Intermediate,2023-08-15
+1031,Sneha Khan,B.Tech (CSE),CERT0031,"Java, Data Science",55,78,Intermediate,Intermediate,2024-07-09
+1032,Arjun Sharma,B.Tech (IT),CERT0032,Data Science,69,49,Beginner,Beginner,2025-03-07
+1033,Nikita Bhatia,B.Tech (IT),CERT0033,"Python, Data Science",100,74,Advanced,Advanced,2025-02-18
+1034,Ankit Verma,MCA,CERT0034,"DevOps, SQL",34,49,Beginner,Beginner,2024-10-12
+1035,Tanya Mehta,B.Tech (CSE),CERT0035,"Excel, Machine Learning",55,47,Beginner,Beginner,2025-10-17
+1036,Priya Iyer,B.Tech (IT),CERT0036,Cloud Computing,51,63,Beginner,Beginner,2022-03-07
+1037,Aarav Kumar,B.Sc (IT),CERT0037,Web Development,90,86,Advanced,Advanced,2024-04-26
+1038,Varun Srivastava,B.Tech (IT),CERT0038,Java,38,57,Beginner,Beginner,2023-03-17
+1039,Neha Joshi,B.Tech (IT),CERT0039,Android Development,46,46,Advanced,Beginner,2023-01-14
+1040,Manav Kumar,MCA,CERT0040,Web Development,78,67,Intermediate,Intermediate,2024-05-20
+1041,Aditya Reddy,Diploma (IT),CERT0041,Cloud Computing,94,70,Advanced,Advanced,2025-03-18
+1042,Shreya Reddy,MBA,CERT0042,Python,55,53,Beginner,Beginner,2023-09-13
+1043,Ritika Sharma,B.Sc (IT),CERT0043,"Cloud Computing, Android Development",42,52,Beginner,Beginner,2023-05-21
+1044,Aditya Nair,BCA,CERT0044,"SQL, Java",84,84,Advanced,Advanced,2024-11-26
+1045,Varun Srivastava,B.Sc (IT),CERT0045,SQL,73,81,Intermediate,Intermediate,2024-03-13
+1046,Ishaan Mehta,B.Sc (IT),CERT0046,Python,23,48,Intermediate,Beginner,2023-08-17
+1047,Aarav Joshi,Diploma (IT),CERT0047,Cloud Computing,76,69,Intermediate,Intermediate,2022-06-09
+1048,Meera Kumar,B.Tech (IT),CERT0048,Java,51,63,Beginner,Beginner,2022-09-19
+1049,Tanya Bhatia,BBA,CERT0049,"Excel, Android Development",100,91,Advanced,Advanced,2023-11-09
+1050,Tanya Kapoor,BCA,CERT0050,Excel,53,72,Intermediate,Intermediate,2023-05-18
+1051,Varun Chaudhary,B.Sc (IT),CERT0051,"Android Development, Excel",65,55,Beginner,Intermediate,2024-03-12
+1052,Varun Iyer,MBA,CERT0052,Data Science,84,96,Advanced,Advanced,2023-08-05
+1053,Ananya Kapoor,MCA,CERT0053,DevOps,40,57,Beginner,Beginner,2023-12-20
+1054,Varun Chaudhary,B.Tech (IT),CERT0054,Machine Learning,52,61,Beginner,Beginner,2024-06-14
+1055,Sai Kapoor,M.Tech (CS),CERT0055,Python,23,43,Beginner,Beginner,2022-12-30
+1056,Riya Srivastava,MBA,CERT0056,"Java, Web Development",52,65,Beginner,Beginner,2025-07-10
+1057,Rahul Patel,BCA,CERT0057,"Cloud Computing, Machine Learning",53,61,Beginner,Beginner,2025-11-04
+1058,Priya Joshi,BBA,CERT0058,Python,30,43,Beginner,Beginner,2023-01-09
+1059,Ankit Nair,B.Tech (IT),CERT0059,"DevOps, Machine Learning",52,45,Intermediate,Beginner,2023-09-04
+1060,Priya Sharma,BCA,CERT0060,Python,64,43,Beginner,Beginner,2023-05-13
+1061,Ankit Kumar,B.Tech (CSE),CERT0061,Data Science,63,78,Intermediate,Intermediate,2025-08-18
+1062,Nikita Chaudhary,Diploma (IT),CERT0062,Web Development,85,67,Intermediate,Intermediate,2024-01-31
+1063,Sakshi Gupta,MBA,CERT0063,"Machine Learning, Cloud Computing",44,41,Beginner,Beginner,2022-10-03
+1064,Kavya Bhatia,BBA,CERT0064,Java,78,88,Advanced,Advanced,2024-03-16
+1065,Deepak Kapoor,B.Tech (IT),CERT0065,"Machine Learning, Python",53,71,Advanced,Intermediate,2025-01-15
+1066,Deepak Bhatia,B.Tech (CSE),CERT0066,Web Development,91,68,Intermediate,Intermediate,2023-09-10
+1067,Ritika Nair,MCA,CERT0067,Excel,66,79,Intermediate,Intermediate,2024-01-12
+1068,Shreya Singh,BBA,CERT0068,"Machine Learning, Python",85,100,Advanced,Advanced,2023-10-13
+1069,Karan Iyer,BBA,CERT0069,Machine Learning,46,64,Beginner,Beginner,2024-11-20
+1070,Ishaan Chaudhary,Diploma (IT),CERT0070,Data Science,59,53,Beginner,Beginner,2024-09-30
+1071,Aarav Joshi,MCA,CERT0071,Java,91,84,Advanced,Advanced,2022-09-01
+1072,Ishaan Malhotra,B.Tech (IT),CERT0072,Data Science,41,46,Intermediate,Beginner,2024-07-09
+1073,Ishaan Singh,BCA,CERT0073,Data Science,76,48,Intermediate,Intermediate,2023-06-08
+1074,Isha Chaudhary,B.Sc (IT),CERT0074,"Python, DevOps",39,48,Intermediate,Beginner,2024-09-26
+1075,Sneha Singh,B.Tech (CSE),CERT0075,DevOps,74,89,Advanced,Advanced,2022-10-27
+1076,Ritika Kumar,B.Tech (CSE),CERT0076,"Machine Learning, Android Development",58,78,Intermediate,Intermediate,2023-05-29
+1077,Priya Sharma,MCA,CERT0077,DevOps,64,57,Intermediate,Intermediate,2023-05-27
+1078,Neha Kapoor,Diploma (IT),CERT0078,Android Development,59,86,Intermediate,Intermediate,2022-09-28
+1079,Ankit Joshi,MCA,CERT0079,Java,67,77,Intermediate,Intermediate,2022-05-14
+1080,Aarav Gupta,BCA,CERT0080,Android Development,97,96,Advanced,Advanced,2022-02-08
+1081,Tanya Iyer,BBA,CERT0081,"Android Development, Java",73,68,Intermediate,Intermediate,2023-02-19
+1082,Sai Nair,BBA,CERT0082,"Cloud Computing, Excel",57,73,Intermediate,Intermediate,2022-06-28
+1083,Neha Patel,MBA,CERT0083,Android Development,63,47,Beginner,Beginner,2023-09-28
+1084,Arjun Bhatia,MBA,CERT0084,Web Development,64,58,Intermediate,Intermediate,2023-03-16
+1085,Tanya Singh,BCA,CERT0085,Machine Learning,20,53,Beginner,Beginner,2022-10-11
+1086,Manav Chaudhary,B.Tech (CSE),CERT0086,"Web Development, Machine Learning",90,80,Advanced,Advanced,2022-09-23
+1087,Aditi Mehta,MBA,CERT0087,SQL,100,100,Intermediate,Advanced,2023-08-25
+1088,Sneha Bhatia,BBA,CERT0088,"Cloud Computing, Java",42,61,Intermediate,Beginner,2025-04-05
+1089,Aditi Iyer,B.Tech (IT),CERT0089,Java,55,69,Intermediate,Intermediate,2024-12-09
+1090,Varun Desai,MBA,CERT0090,"Data Science, Python",59,65,Advanced,Intermediate,2025-06-22
+1091,Shreya Nair,MBA,CERT0091,"Android Development, Web Development",76,63,Intermediate,Intermediate,2023-01-10
+1092,Varun Gupta,B.Sc (IT),CERT0092,Android Development,84,91,Advanced,Advanced,2025-01-06
+1093,Rohan Kumar,M.Tech (CS),CERT0093,"Cloud Computing, Web Development",48,54,Beginner,Beginner,2024-04-25
+1094,Dev Gupta,BCA,CERT0094,"SQL, Java",85,76,Advanced,Advanced,2025-09-29
+1095,Ritika Desai,B.Tech (IT),CERT0095,Data Science,64,56,Intermediate,Intermediate,2023-04-10
+1096,Aditi Iyer,MBA,CERT0096,"Data Science, Excel",100,99,Advanced,Advanced,2022-06-27
+1097,Deepak Nair,M.Tech (CS),CERT0097,"Excel, SQL",85,68,Intermediate,Intermediate,2024-11-24
+1098,Varun Iyer,MCA,CERT0098,Python,66,62,Intermediate,Intermediate,2025-03-28
+1099,Tanya Mehta,M.Tech (CS),CERT0099,Machine Learning,82,63,Intermediate,Intermediate,2023-11-18
+1100,Ishaan Chaudhary,Diploma (IT),CERT0100,"Python, Java",77,79,Advanced,Intermediate,2022-10-06
+1101,Varun Ghosh,BCA,CERT0101,Machine Learning,68,90,Beginner,Intermediate,2025-05-16
+1102,Karan Kumar,B.Tech (CSE),CERT0102,Cloud Computing,61,69,Intermediate,Intermediate,2023-11-08
+1103,Manav Srivastava,B.Tech (CSE),CERT0103,Machine Learning,52,60,Intermediate,Beginner,2024-11-19
+1104,Karan Desai,MBA,CERT0104,Java,71,72,Advanced,Intermediate,2024-06-06
+1105,Vivaan Malhotra,BBA,CERT0105,Android Development,76,86,Beginner,Advanced,2024-06-03
+1106,Rohan Gupta,MBA,CERT0106,DevOps,40,53,Beginner,Beginner,2025-09-20
+1107,Isha Bose,B.Tech (IT),CERT0107,"Android Development, Excel",42,66,Beginner,Beginner,2023-06-20
+1108,Priya Mehta,B.Tech (CSE),CERT0108,Web Development,30,37,Advanced,Beginner,2023-05-13
+1109,Kavya Kumar,B.Tech (CSE),CERT0109,Cloud Computing,84,94,Beginner,Advanced,2024-07-05
+1110,Nikita Bose,B.Tech (CSE),CERT0110,"Excel, Machine Learning",67,78,Intermediate,Intermediate,2024-10-11
+1111,Priya Malhotra,MBA,CERT0111,"Python, Data Science",47,58,Beginner,Beginner,2023-08-06
+1112,Sai Ghosh,B.Tech (IT),CERT0112,"Excel, Web Development",69,70,Intermediate,Intermediate,2023-02-04
+1113,Dev Nair,BCA,CERT0113,Excel,33,57,Beginner,Beginner,2022-02-04
+1114,Ankit Reddy,Diploma (IT),CERT0114,SQL,77,64,Intermediate,Intermediate,2025-09-27
+1115,Arjun Ghosh,B.Tech (IT),CERT0115,"Python, DevOps",61,64,Intermediate,Intermediate,2023-04-28
+1116,Arjun Kapoor,BBA,CERT0116,"DevOps, Excel",45,54,Beginner,Beginner,2022-02-02
+1117,Ankit Malhotra,BBA,CERT0117,"DevOps, Excel",56,73,Intermediate,Intermediate,2025-06-05
+1118,Rohan Bhatia,Diploma (IT),CERT0118,Java,50,59,Beginner,Beginner,2025-05-14
+1119,Riya Joshi,M.Tech (CS),CERT0119,Excel,86,59,Intermediate,Intermediate,2024-07-15
+1120,Rahul Khan,B.Tech (CSE),CERT0120,Data Science,72,81,Beginner,Intermediate,2025-05-06
+1121,Varun Sharma,B.Tech (IT),CERT0121,Excel,74,86,Advanced,Advanced,2022-01-28
+1122,Dev Desai,MBA,CERT0122,Python,53,66,Beginner,Beginner,2022-01-26
+1123,Neha Khan,B.Tech (CSE),CERT0123,Python,65,56,Intermediate,Intermediate,2022-09-17
+1124,Nikita Desai,MBA,CERT0124,Python,47,67,Beginner,Beginner,2023-05-09
+1125,Isha Iyer,MBA,CERT0125,"Web Development, Data Science",100,100,Advanced,Advanced,2022-07-23
+1126,Aarav Gupta,BCA,CERT0126,"Data Science, Cloud Computing",90,85,Advanced,Advanced,2022-10-22
+1127,Tanya Nair,MCA,CERT0127,"Data Science, Cloud Computing",60,99,Intermediate,Intermediate,2024-02-18
+1128,Shreya Sharma,B.Tech (IT),CERT0128,SQL,87,69,Intermediate,Intermediate,2024-11-21
+1129,Sneha Khan,Diploma (IT),CERT0129,Machine Learning,84,80,Advanced,Advanced,2022-03-07
+1130,Neha Malhotra,B.Tech (IT),CERT0130,Android Development,71,76,Intermediate,Intermediate,2025-08-01
+1131,Karan Patel,B.Sc (IT),CERT0131,Data Science,63,66,Intermediate,Intermediate,2025-07-25
+1132,Isha Nair,BCA,CERT0132,Cloud Computing,46,46,Beginner,Beginner,2025-01-29
+1133,Ritika Malhotra,MBA,CERT0133,"Excel, Web Development",92,80,Advanced,Advanced,2025-08-31
+1134,Aditi Mehta,B.Sc (IT),CERT0134,"Machine Learning, Excel",59,41,Beginner,Beginner,2024-01-15
+1135,Manav Srivastava,MCA,CERT0135,"SQL, Web Development",47,43,Beginner,Beginner,2023-10-22
+1136,Dev Mehta,BCA,CERT0136,"Python, Web Development",67,61,Intermediate,Intermediate,2023-06-30
+1137,Rahul Patel,B.Sc (IT),CERT0137,Excel,40,64,Beginner,Beginner,2022-08-26
+1138,Isha Reddy,B.Tech (IT),CERT0138,Cloud Computing,54,59,Advanced,Beginner,2022-09-25
+1139,Rohan Gupta,B.Tech (CSE),CERT0139,DevOps,46,52,Beginner,Beginner,2022-10-20
+1140,Vivaan Gupta,M.Tech (CS),CERT0140,Android Development,43,50,Beginner,Beginner,2023-11-12
+1141,Dev Reddy,MBA,CERT0141,"Python, Web Development",79,84,Advanced,Advanced,2023-05-26
+1142,Manav Iyer,MBA,CERT0142,Python,86,79,Advanced,Advanced,2024-12-22
+1143,Shreya Kapoor,MCA,CERT0143,Java,51,68,Beginner,Beginner,2025-07-14
+1144,Tanya Sharma,MCA,CERT0144,"Excel, Data Science",48,55,Beginner,Beginner,2024-05-05
+1145,Karan Patel,MBA,CERT0145,Java,84,96,Advanced,Advanced,2022-12-17
+1146,Kavya Khan,B.Sc (IT),CERT0146,Machine Learning,70,83,Intermediate,Intermediate,2025-10-19
+1147,Arjun Kumar,BCA,CERT0147,"Python, Machine Learning",47,54,Intermediate,Beginner,2022-07-24
+1148,Arjun Desai,MCA,CERT0148,Python,77,87,Advanced,Advanced,2023-06-06
+1149,Deepak Bose,M.Tech (CS),CERT0149,Data Science,69,97,Advanced,Advanced,2023-09-15
+1150,Nikita Desai,B.Tech (CSE),CERT0150,Cloud Computing,93,72,Advanced,Advanced,2024-09-26
+1151,Karan Bose,Diploma (IT),CERT0151,Android Development,100,70,Advanced,Advanced,2023-10-02
+1152,Sakshi Iyer,MCA,CERT0152,SQL,68,85,Intermediate,Intermediate,2022-12-01
+1153,Ananya Bhatia,MBA,CERT0153,Cloud Computing,82,86,Advanced,Advanced,2024-03-09
+1154,Shreya Singh,B.Tech (IT),CERT0154,Android Development,77,67,Intermediate,Intermediate,2025-03-07
+1155,Maya Nair,BCA,CERT0155,"Data Science, DevOps",63,81,Intermediate,Intermediate,2023-05-26
+1156,Manav Malhotra,BCA,CERT0156,Web Development,45,67,Beginner,Beginner,2024-09-22
+1157,Ritika Nair,MCA,CERT0157,"SQL, DevOps",56,68,Advanced,Intermediate,2024-03-03
+1158,Shreya Bose,B.Sc (IT),CERT0158,Data Science,100,89,Advanced,Advanced,2024-01-03
+1159,Ankit Patel,Diploma (IT),CERT0159,DevOps,72,48,Advanced,Intermediate,2025-09-18
+1160,Aditi Bose,Diploma (IT),CERT0160,DevOps,60,50,Beginner,Beginner,2023-10-28
+1161,Ananya Singh,B.Tech (CSE),CERT0161,SQL,67,48,Beginner,Beginner,2025-09-16
+1162,Ananya Chaudhary,BCA,CERT0162,"Excel, SQL",40,47,Beginner,Beginner,2022-02-19
+1163,Tanya Iyer,MCA,CERT0163,"Excel, DevOps",77,64,Intermediate,Intermediate,2024-12-26
+1164,Tanya Mehta,MCA,CERT0164,SQL,75,90,Intermediate,Advanced,2022-12-03
+1165,Ankit Reddy,B.Tech (IT),CERT0165,Machine Learning,79,86,Advanced,Advanced,2025-08-29
+1166,Maya Iyer,Diploma (IT),CERT0166,"Python, Android Development",89,99,Intermediate,Advanced,2024-07-30
+1167,Arjun Patel,MCA,CERT0167,Python,85,82,Advanced,Advanced,2025-05-13
+1168,Nikita Gupta,BBA,CERT0168,Machine Learning,78,76,Intermediate,Intermediate,2024-06-19
+1169,Arjun Chaudhary,MBA,CERT0169,"Machine Learning, Java",63,47,Intermediate,Beginner,2023-12-10
+1170,Varun Bhatia,BBA,CERT0170,Android Development,70,97,Advanced,Advanced,2022-11-08
+1171,Rahul Reddy,M.Tech (CS),CERT0171,Android Development,57,62,Beginner,Beginner,2024-11-28
+1172,Varun Kapoor,B.Tech (CSE),CERT0172,"Cloud Computing, Web Development",57,56,Beginner,Beginner,2022-11-22
+1173,Ritika Desai,Diploma (IT),CERT0173,"Data Science, Web Development",78,95,Intermediate,Advanced,2022-07-09
+1174,Kavya Verma,B.Tech (CSE),CERT0174,Machine Learning,72,64,Intermediate,Intermediate,2023-06-05
+1175,Aarav Patel,B.Sc (IT),CERT0175,"Python, Java",76,57,Intermediate,Intermediate,2022-02-04
+1176,Aditya Patel,B.Tech (IT),CERT0176,SQL,70,61,Intermediate,Intermediate,2024-06-18
+1177,Neha Sharma,B.Sc (IT),CERT0177,Cloud Computing,89,75,Advanced,Advanced,2025-02-19
+1178,Manav Desai,MBA,CERT0178,Cloud Computing,32,51,Beginner,Beginner,2024-08-01
+1179,Ananya Sharma,BCA,CERT0179,Machine Learning,47,77,Intermediate,Intermediate,2024-03-22
+1180,Ritika Singh,B.Sc (IT),CERT0180,Android Development,55,74,Intermediate,Intermediate,2023-06-22
+1181,Varun Joshi,Diploma (IT),CERT0181,Web Development,38,62,Beginner,Beginner,2024-02-13
+1182,Isha Mehta,MCA,CERT0182,Web Development,78,100,Beginner,Advanced,2025-07-08
+1183,Meera Srivastava,MCA,CERT0183,"SQL, Excel",72,59,Intermediate,Intermediate,2025-03-19
+1184,Ishaan Reddy,BBA,CERT0184,Android Development,86,66,Intermediate,Intermediate,2022-12-01
+1185,Ritika Sharma,BBA,CERT0185,"Machine Learning, SQL",68,93,Intermediate,Advanced,2025-01-12
+1186,Maya Malhotra,B.Tech (IT),CERT0186,SQL,94,80,Advanced,Advanced,2022-11-12
+1187,Manav Malhotra,B.Tech (IT),CERT0187,Python,71,43,Intermediate,Beginner,2022-07-02
+1188,Aarav Chaudhary,B.Sc (IT),CERT0188,SQL,27,21,Beginner,Beginner,2024-05-24
+1189,Vivaan Iyer,MBA,CERT0189,"Android Development, SQL",68,73,Intermediate,Intermediate,2024-06-27
+1190,Neha Mehta,B.Sc (IT),CERT0190,SQL,88,61,Intermediate,Intermediate,2025-05-02
+1191,Ritika Bhatia,B.Tech (CSE),CERT0191,"Android Development, Machine Learning",49,59,Intermediate,Beginner,2024-10-21
+1192,Aditi Bose,M.Tech (CS),CERT0192,Excel,69,67,Intermediate,Intermediate,2025-05-23
+1193,Aarav Iyer,B.Tech (CSE),CERT0193,"Python, Java",64,69,Beginner,Intermediate,2022-04-15
+1194,Riya Gupta,MCA,CERT0194,DevOps,68,62,Intermediate,Intermediate,2025-03-31
+1195,Manav Verma,MCA,CERT0195,"SQL, Machine Learning",81,74,Intermediate,Intermediate,2022-08-30
+1196,Aditya Kapoor,B.Tech (CSE),CERT0196,"Web Development, Java",40,47,Beginner,Beginner,2024-09-18
+1197,Rohan Iyer,B.Sc (IT),CERT0197,Android Development,79,92,Advanced,Advanced,2024-12-08
+1198,Isha Kapoor,BBA,CERT0198,SQL,73,77,Intermediate,Intermediate,2023-04-18
+1199,Isha Singh,MBA,CERT0199,Cloud Computing,49,41,Beginner,Beginner,2022-05-31
+1200,Ananya Ghosh,BBA,CERT0200,"Cloud Computing, Excel",43,50,Beginner,Beginner,2025-05-09
+1201,Ritika Gupta,BBA,CERT0201,Data Science,43,57,Beginner,Beginner,2023-10-02
+1202,Aarav Patel,B.Tech (CSE),CERT0202,"Web Development, Android Development",84,81,Advanced,Advanced,2023-10-19
+1203,Sneha Chaudhary,Diploma (IT),CERT0203,Data Science,30,43,Beginner,Beginner,2022-04-13
+1204,Karan Verma,Diploma (IT),CERT0204,"SQL, Android Development",74,56,Intermediate,Intermediate,2024-08-24
+1205,Pooja Verma,MBA,CERT0205,Cloud Computing,69,54,Intermediate,Intermediate,2022-02-04
+1206,Rahul Chaudhary,B.Tech (CSE),CERT0206,Web Development,62,65,Intermediate,Intermediate,2022-06-01
+1207,Ishaan Verma,Diploma (IT),CERT0207,Data Science,100,90,Advanced,Advanced,2025-07-21
+1208,Ankit Reddy,BBA,CERT0208,"Data Science, Android Development",64,62,Intermediate,Intermediate,2024-01-30
+1209,Rohan Joshi,BCA,CERT0209,Machine Learning,90,72,Beginner,Advanced,2022-10-03
+1210,Dev Verma,MBA,CERT0210,"Excel, Data Science",55,72,Intermediate,Intermediate,2024-05-27
+1211,Isha Verma,MBA,CERT0211,Java,84,100,Intermediate,Advanced,2025-04-07
+1212,Ankit Kumar,MCA,CERT0212,"Java, DevOps",61,77,Intermediate,Intermediate,2022-12-23
+1213,Deepak Desai,B.Tech (CSE),CERT0213,SQL,77,79,Intermediate,Intermediate,2024-05-20
+1214,Ishaan Sharma,MBA,CERT0214,Data Science,100,100,Beginner,Advanced,2022-12-26
+1215,Nikita Mehta,B.Tech (CSE),CERT0215,Cloud Computing,18,77,Intermediate,Beginner,2023-02-07
+1216,Dev Iyer,B.Tech (IT),CERT0216,Java,54,80,Advanced,Intermediate,2022-05-20
+1217,Neha Kumar,BCA,CERT0217,Excel,71,90,Advanced,Advanced,2025-10-18
+1218,Ritika Chaudhary,Diploma (IT),CERT0218,SQL,38,66,Beginner,Beginner,2023-03-02
+1219,Manav Iyer,BCA,CERT0219,Machine Learning,51,69,Intermediate,Intermediate,2022-12-20
+1220,Ritika Nair,Diploma (IT),CERT0220,Python,73,73,Intermediate,Intermediate,2025-05-16
+1221,Maya Khan,B.Tech (IT),CERT0221,SQL,67,84,Intermediate,Intermediate,2025-01-09
+1222,Vivaan Kumar,MCA,CERT0222,Web Development,34,67,Beginner,Beginner,2022-07-20
+1223,Nikita Khan,BBA,CERT0223,"Python, SQL",61,76,Intermediate,Intermediate,2022-04-19
+1224,Tanya Ghosh,MBA,CERT0224,"Excel, Web Development",84,73,Intermediate,Intermediate,2022-03-16
+1225,Arjun Reddy,Diploma (IT),CERT0225,Web Development,74,78,Advanced,Intermediate,2024-11-12
+1226,Rahul Singh,BBA,CERT0226,Excel,89,72,Advanced,Advanced,2023-06-14
+1227,Priya Kapoor,B.Tech (IT),CERT0227,"Excel, Cloud Computing",47,41,Beginner,Beginner,2023-07-14
+1228,Kavya Srivastava,M.Tech (CS),CERT0228,Python,47,65,Beginner,Beginner,2025-05-22
+1229,Riya Nair,MCA,CERT0229,Machine Learning,62,66,Intermediate,Intermediate,2023-09-25
+1230,Rahul Patel,B.Sc (IT),CERT0230,Cloud Computing,39,67,Beginner,Beginner,2023-06-29
+1231,Kavya Ghosh,BBA,CERT0231,Android Development,86,82,Advanced,Advanced,2022-02-13
+1232,Neha Srivastava,MBA,CERT0232,"Web Development, Python",51,52,Beginner,Beginner,2023-06-24
+1233,Ankit Mehta,BCA,CERT0233,Data Science,100,83,Advanced,Advanced,2022-01-31
+1234,Tanya Khan,MCA,CERT0234,"Excel, Data Science",75,65,Intermediate,Intermediate,2025-03-10
+1235,Maya Verma,BBA,CERT0235,Python,36,37,Beginner,Beginner,2024-08-13
+1236,Varun Kapoor,M.Tech (CS),CERT0236,Excel,15,64,Beginner,Beginner,2022-02-08
+1237,Shreya Nair,B.Tech (IT),CERT0237,DevOps,68,90,Intermediate,Intermediate,2025-02-15
+1238,Isha Desai,Diploma (IT),CERT0238,"Cloud Computing, Machine Learning",76,72,Intermediate,Intermediate,2024-02-02
+1239,Pooja Patel,B.Sc (IT),CERT0239,SQL,71,61,Intermediate,Intermediate,2022-04-03
+1240,Kavya Reddy,B.Sc (IT),CERT0240,Cloud Computing,64,49,Beginner,Beginner,2025-02-15
+1241,Rahul Gupta,BCA,CERT0241,Machine Learning,40,47,Intermediate,Beginner,2023-06-17
+1242,Ankit Patel,BCA,CERT0242,Data Science,54,44,Beginner,Beginner,2022-08-22
+1243,Ritika Mehta,B.Tech (IT),CERT0243,"Web Development, Excel",80,83,Beginner,Advanced,2023-07-23
+1244,Rohan Bhatia,B.Tech (CSE),CERT0244,Android Development,65,59,Intermediate,Intermediate,2025-06-26
+1245,Tanya Bhatia,Diploma (IT),CERT0245,Python,70,65,Intermediate,Intermediate,2025-07-20
+1246,Tanya Reddy,B.Tech (IT),CERT0246,"Java, Android Development",71,76,Intermediate,Intermediate,2024-10-28
+1247,Varun Ghosh,MCA,CERT0247,"Machine Learning, SQL",68,99,Advanced,Advanced,2022-07-31
+1248,Karan Reddy,B.Tech (IT),CERT0248,"Data Science, Web Development",63,52,Beginner,Beginner,2024-01-15
+1249,Varun Mehta,MBA,CERT0249,Cloud Computing,54,83,Intermediate,Intermediate,2022-09-16
+1250,Shreya Kumar,BCA,CERT0250,Python,49,52,Beginner,Beginner,2024-03-23
+1251,Aditi Bhatia,B.Sc (IT),CERT0251,"SQL, Machine Learning",74,75,Intermediate,Intermediate,2022-10-30
+1252,Nikita Patel,B.Sc (IT),CERT0252,DevOps,55,73,Intermediate,Intermediate,2024-02-06
+1253,Karan Verma,BBA,CERT0253,Android Development,91,85,Intermediate,Advanced,2024-11-11
+1254,Maya Nair,BCA,CERT0254,Excel,77,60,Intermediate,Intermediate,2024-07-30
+1255,Karan Kumar,B.Tech (IT),CERT0255,Web Development,69,92,Advanced,Advanced,2022-02-09
+1256,Tanya Patel,M.Tech (CS),CERT0256,SQL,100,93,Advanced,Advanced,2025-06-25
+1257,Sai Bhatia,B.Tech (CSE),CERT0257,Excel,29,65,Beginner,Beginner,2025-10-04
+1258,Varun Chaudhary,Diploma (IT),CERT0258,DevOps,52,43,Beginner,Beginner,2022-09-04
+1259,Riya Nair,B.Tech (IT),CERT0259,"Excel, Python",72,80,Advanced,Intermediate,2023-02-10
+1260,Ananya Gupta,MBA,CERT0260,Excel,37,55,Beginner,Beginner,2025-05-01
+1261,Deepak Patel,M.Tech (CS),CERT0261,Android Development,84,96,Advanced,Advanced,2022-09-20
+1262,Ritika Joshi,B.Sc (IT),CERT0262,Cloud Computing,49,66,Beginner,Beginner,2023-09-29
+1263,Karan Patel,M.Tech (CS),CERT0263,"Cloud Computing, Machine Learning",69,90,Intermediate,Intermediate,2022-02-01
+1264,Dev Mehta,BCA,CERT0264,"Data Science, Cloud Computing",58,43,Beginner,Beginner,2025-04-29
+1265,Arjun Bose,B.Sc (IT),CERT0265,SQL,66,69,Advanced,Intermediate,2022-05-21
+1266,Shreya Kumar,Diploma (IT),CERT0266,Cloud Computing,40,71,Beginner,Beginner,2024-10-28
+1267,Ishaan Patel,B.Sc (IT),CERT0267,Data Science,87,84,Advanced,Advanced,2024-02-29
+1268,Maya Bhatia,MCA,CERT0268,Python,68,61,Intermediate,Intermediate,2022-03-12
+1269,Ananya Khan,BCA,CERT0269,"SQL, Excel",52,61,Beginner,Beginner,2025-01-08
+1270,Vivaan Iyer,B.Tech (CSE),CERT0270,"Android Development, Web Development",31,44,Beginner,Beginner,2025-07-17
+1271,Manav Srivastava,BBA,CERT0271,Android Development,61,76,Intermediate,Intermediate,2023-03-22
+1272,Maya Nair,B.Tech (CSE),CERT0272,"Web Development, Machine Learning",48,58,Beginner,Beginner,2025-02-28
+1273,Arjun Desai,B.Tech (CSE),CERT0273,"Java, Android Development",63,49,Beginner,Beginner,2023-12-19
+1274,Vivaan Srivastava,B.Tech (IT),CERT0274,Java,74,75,Beginner,Intermediate,2022-07-18
+1275,Karan Kapoor,Diploma (IT),CERT0275,DevOps,44,48,Advanced,Beginner,2023-10-03
+1276,Shreya Malhotra,B.Tech (IT),CERT0276,Python,55,57,Beginner,Beginner,2023-11-30
+1277,Ankit Patel,MBA,CERT0277,Web Development,81,77,Intermediate,Intermediate,2024-09-03
+1278,Pooja Iyer,BBA,CERT0278,"Android Development, Cloud Computing",97,93,Advanced,Advanced,2025-04-05
+1279,Aditya Bhatia,B.Tech (IT),CERT0279,Machine Learning,39,56,Beginner,Beginner,2022-04-01
+1280,Sakshi Kapoor,BCA,CERT0280,Java,53,68,Intermediate,Intermediate,2025-08-15
+1281,Ishaan Gupta,B.Tech (CSE),CERT0281,Cloud Computing,58,71,Intermediate,Intermediate,2025-10-21
+1282,Ritika Joshi,Diploma (IT),CERT0282,Python,28,39,Beginner,Beginner,2024-05-02
+1283,Manav Kapoor,B.Sc (IT),CERT0283,Android Development,77,50,Intermediate,Intermediate,2025-01-15
+1284,Ishaan Bose,M.Tech (CS),CERT0284,"Machine Learning, Java",69,98,Intermediate,Advanced,2022-07-14
+1285,Neha Desai,Diploma (IT),CERT0285,"SQL, Data Science",59,55,Beginner,Beginner,2022-05-28
+1286,Nikita Reddy,M.Tech (CS),CERT0286,"Data Science, SQL",18,32,Advanced,Beginner,2024-02-03
+1287,Nikita Patel,M.Tech (CS),CERT0287,"Data Science, Excel",72,53,Intermediate,Intermediate,2022-06-07
+1288,Nikita Srivastava,B.Sc (IT),CERT0288,"Excel, Machine Learning",46,62,Beginner,Beginner,2023-11-29
+1289,Priya Malhotra,MCA,CERT0289,Android Development,84,58,Intermediate,Intermediate,2023-09-23
+1290,Maya Malhotra,BCA,CERT0290,Data Science,91,74,Advanced,Advanced,2022-04-16
+1291,Sakshi Srivastava,Diploma (IT),CERT0291,"Machine Learning, DevOps",82,98,Advanced,Advanced,2022-11-30
+1292,Maya Patel,B.Sc (IT),CERT0292,"Web Development, Cloud Computing",57,82,Intermediate,Intermediate,2023-08-15
+1293,Ishaan Ghosh,M.Tech (CS),CERT0293,Web Development,85,89,Advanced,Advanced,2025-10-16
+1294,Aditi Patel,MCA,CERT0294,"Java, Web Development",53,65,Intermediate,Beginner,2024-11-22
+1295,Sai Sharma,B.Tech (CSE),CERT0295,"DevOps, Java",64,69,Intermediate,Intermediate,2022-01-16
+1296,Maya Kumar,B.Tech (IT),CERT0296,DevOps,47,61,Beginner,Beginner,2022-03-17
+1297,Ritika Patel,MCA,CERT0297,"Cloud Computing, DevOps",46,56,Beginner,Beginner,2022-05-14
+1298,Manav Kumar,B.Tech (CSE),CERT0298,SQL,63,72,Intermediate,Intermediate,2025-02-13
+1299,Isha Mehta,MCA,CERT0299,"SQL, Machine Learning",49,54,Beginner,Beginner,2024-07-13
+1300,Ishaan Gupta,BBA,CERT0300,"Cloud Computing, Python",45,48,Intermediate,Beginner,2024-03-14
+1301,Aditi Ghosh,B.Tech (CSE),CERT0301,"Web Development, DevOps",52,60,Beginner,Beginner,2025-07-21
+1302,Ananya Khan,B.Tech (CSE),CERT0302,"Web Development, DevOps",67,57,Intermediate,Intermediate,2024-03-20
+1303,Isha Malhotra,Diploma (IT),CERT0303,SQL,64,56,Intermediate,Intermediate,2025-11-07
+1304,Rohan Reddy,M.Tech (CS),CERT0304,SQL,90,78,Advanced,Advanced,2024-10-05
+1305,Ankit Mehta,BCA,CERT0305,Excel,54,88,Beginner,Intermediate,2025-08-30
+1306,Ananya Joshi,B.Tech (CSE),CERT0306,Android Development,69,79,Intermediate,Intermediate,2022-10-12
+1307,Ankit Iyer,B.Tech (IT),CERT0307,Data Science,71,70,Intermediate,Intermediate,2022-08-25
+1308,Karan Singh,Diploma (IT),CERT0308,"Data Science, SQL",77,68,Advanced,Intermediate,2023-09-15
+1309,Nikita Reddy,Diploma (IT),CERT0309,Web Development,65,100,Advanced,Advanced,2025-05-31
+1310,Sneha Sharma,MCA,CERT0310,DevOps,73,59,Intermediate,Intermediate,2025-08-04
+1311,Sakshi Reddy,MBA,CERT0311,"Python, Machine Learning",71,61,Intermediate,Intermediate,2024-06-09
+1312,Rohan Desai,B.Sc (IT),CERT0312,"Java, DevOps",70,92,Advanced,Advanced,2022-03-08
+1313,Pooja Reddy,BBA,CERT0313,Data Science,55,64,Advanced,Beginner,2022-01-03
+1314,Shreya Desai,MCA,CERT0314,"Java, DevOps",94,91,Advanced,Advanced,2025-06-07
+1315,Deepak Gupta,BCA,CERT0315,"Python, Excel",65,52,Beginner,Beginner,2025-01-15
+1316,Maya Bose,BBA,CERT0316,"Python, Java",78,70,Intermediate,Intermediate,2022-03-02
+1317,Shreya Joshi,BBA,CERT0317,Data Science,76,83,Intermediate,Intermediate,2024-07-03
+1318,Tanya Chaudhary,M.Tech (CS),CERT0318,"DevOps, Machine Learning",57,54,Beginner,Beginner,2022-04-07
+1319,Arjun Malhotra,B.Tech (CSE),CERT0319,Web Development,45,69,Beginner,Beginner,2023-09-27
+1320,Isha Reddy,M.Tech (CS),CERT0320,Web Development,60,100,Advanced,Advanced,2023-09-03
+1321,Kavya Malhotra,BCA,CERT0321,Python,38,54,Beginner,Beginner,2025-06-13
+1322,Kavya Nair,B.Sc (IT),CERT0322,SQL,71,73,Intermediate,Intermediate,2025-06-24
+1323,Shreya Khan,B.Tech (IT),CERT0323,Web Development,47,67,Beginner,Beginner,2022-01-25
+1324,Kavya Kapoor,M.Tech (CS),CERT0324,Android Development,61,61,Beginner,Intermediate,2025-10-17
+1325,Shreya Kapoor,B.Sc (IT),CERT0325,Java,95,80,Beginner,Advanced,2022-08-18
+1326,Rohan Kumar,MBA,CERT0326,Cloud Computing,56,67,Intermediate,Intermediate,2024-02-12
+1327,Aditi Srivastava,B.Tech (IT),CERT0327,SQL,51,57,Advanced,Beginner,2024-01-21
+1328,Varun Patel,Diploma (IT),CERT0328,Excel,66,65,Beginner,Intermediate,2024-11-10
+1329,Kavya Sharma,BCA,CERT0329,SQL,60,70,Intermediate,Intermediate,2022-03-06
+1330,Isha Desai,B.Sc (IT),CERT0330,Cloud Computing,73,91,Advanced,Advanced,2024-05-09
+1331,Manav Malhotra,BBA,CERT0331,"Java, Data Science",86,79,Advanced,Advanced,2025-08-21
+1332,Aditya Singh,B.Tech (CSE),CERT0332,Android Development,72,100,Beginner,Advanced,2024-12-04
+1333,Riya Malhotra,M.Tech (CS),CERT0333,"DevOps, Java",86,66,Intermediate,Intermediate,2024-12-03
+1334,Deepak Reddy,BCA,CERT0334,Python,84,85,Advanced,Advanced,2025-01-29
+1335,Aditya Bhatia,BCA,CERT0335,Machine Learning,67,47,Beginner,Beginner,2023-07-23
+1336,Maya Chaudhary,B.Tech (CSE),CERT0336,"Python, Java",40,52,Beginner,Beginner,2022-10-26
+1337,Karan Bose,B.Tech (IT),CERT0337,Machine Learning,71,100,Advanced,Advanced,2025-04-20
+1338,Rahul Chaudhary,B.Tech (IT),CERT0338,SQL,74,93,Beginner,Advanced,2022-05-24
+1339,Ritika Iyer,B.Tech (CSE),CERT0339,Java,79,85,Advanced,Advanced,2022-03-05
+1340,Pooja Srivastava,B.Sc (IT),CERT0340,Android Development,55,79,Advanced,Intermediate,2022-12-01
+1341,Sakshi Khan,Diploma (IT),CERT0341,"Web Development, Python",55,50,Beginner,Beginner,2023-07-09
+1342,Sneha Gupta,B.Sc (IT),CERT0342,"Machine Learning, Data Science",26,83,Beginner,Beginner,2022-12-01
+1343,Ananya Malhotra,MBA,CERT0343,Web Development,85,65,Intermediate,Intermediate,2022-04-03
+1344,Meera Nair,B.Sc (IT),CERT0344,Machine Learning,41,54,Beginner,Beginner,2025-08-01
+1345,Varun Chaudhary,Diploma (IT),CERT0345,Python,31,50,Beginner,Beginner,2025-02-08
+1346,Sakshi Bose,B.Tech (IT),CERT0346,"Java, Web Development",79,67,Intermediate,Intermediate,2022-01-19
+1347,Arjun Verma,B.Tech (CSE),CERT0347,"Cloud Computing, Java",99,92,Beginner,Advanced,2022-07-07
+1348,Pooja Srivastava,B.Tech (IT),CERT0348,Android Development,52,39,Advanced,Beginner,2025-08-06
+1349,Tanya Bhatia,B.Tech (IT),CERT0349,SQL,65,58,Intermediate,Intermediate,2024-05-31
+1350,Arjun Joshi,B.Tech (CSE),CERT0350,Python,99,77,Advanced,Advanced,2023-09-17
+1351,Aarav Kapoor,B.Tech (IT),CERT0351,Machine Learning,62,45,Beginner,Beginner,2023-01-14
+1352,Tanya Patel,Diploma (IT),CERT0352,Web Development,58,49,Beginner,Beginner,2025-08-28
+1353,Varun Singh,BBA,CERT0353,Data Science,38,51,Beginner,Beginner,2023-04-26
+1354,Neha Bhatia,M.Tech (CS),CERT0354,Machine Learning,22,55,Beginner,Beginner,2024-12-15
+1355,Isha Joshi,MBA,CERT0355,Python,65,52,Beginner,Beginner,2025-09-28
+1356,Ritika Nair,BCA,CERT0356,"Machine Learning, DevOps",53,87,Intermediate,Intermediate,2024-09-07
+1357,Rahul Chaudhary,B.Tech (IT),CERT0357,Java,64,47,Advanced,Beginner,2022-12-24
+1358,Sneha Verma,B.Sc (IT),CERT0358,Excel,69,96,Advanced,Advanced,2024-01-06
+1359,Karan Mehta,BCA,CERT0359,SQL,61,58,Beginner,Beginner,2024-11-07
+1360,Pooja Srivastava,BBA,CERT0360,"DevOps, Web Development",34,34,Beginner,Beginner,2022-05-10
+1361,Nikita Chaudhary,BBA,CERT0361,Web Development,58,81,Intermediate,Intermediate,2023-11-18
+1362,Rahul Kumar,B.Tech (IT),CERT0362,"DevOps, SQL",62,65,Intermediate,Intermediate,2022-09-18
+1363,Riya Patel,B.Tech (IT),CERT0363,"Python, Android Development",69,89,Intermediate,Intermediate,2024-12-16
+1364,Meera Ghosh,BBA,CERT0364,Cloud Computing,33,49,Beginner,Beginner,2025-02-08
+1365,Arjun Malhotra,B.Sc (IT),CERT0365,DevOps,68,53,Intermediate,Intermediate,2023-08-02
+1366,Karan Gupta,BBA,CERT0366,SQL,52,55,Beginner,Beginner,2023-12-27
+1367,Sai Sharma,MBA,CERT0367,Android Development,61,67,Advanced,Intermediate,2023-04-17
+1368,Karan Iyer,MCA,CERT0368,Machine Learning,60,78,Intermediate,Intermediate,2025-01-05
+1369,Riya Srivastava,BBA,CERT0369,"Java, Web Development",68,61,Intermediate,Intermediate,2022-12-12
+1370,Dev Malhotra,B.Tech (IT),CERT0370,"Excel, DevOps",39,55,Beginner,Beginner,2022-10-18
+1371,Neha Srivastava,BCA,CERT0371,Excel,57,64,Advanced,Intermediate,2025-02-17
+1372,Priya Desai,MCA,CERT0372,Android Development,100,91,Advanced,Advanced,2025-01-26
+1373,Ankit Reddy,Diploma (IT),CERT0373,Data Science,60,67,Intermediate,Intermediate,2022-05-01
+1374,Rahul Reddy,B.Tech (CSE),CERT0374,"DevOps, Python",59,59,Beginner,Beginner,2022-01-24
+1375,Maya Khan,BBA,CERT0375,SQL,57,66,Intermediate,Intermediate,2023-08-05
+1376,Sakshi Singh,M.Tech (CS),CERT0376,"Cloud Computing, Data Science",64,72,Beginner,Intermediate,2022-02-14
+1377,Vivaan Singh,B.Sc (IT),CERT0377,"Python, Cloud Computing",74,49,Intermediate,Intermediate,2025-10-01
+1378,Vivaan Kumar,MCA,CERT0378,SQL,73,71,Intermediate,Intermediate,2023-10-16
+1379,Aditi Kumar,BCA,CERT0379,Cloud Computing,29,62,Beginner,Beginner,2022-08-31
+1380,Dev Patel,B.Tech (IT),CERT0380,Cloud Computing,56,59,Beginner,Beginner,2022-12-14
+1381,Meera Mehta,MCA,CERT0381,"Excel, Machine Learning",71,77,Intermediate,Intermediate,2022-03-04
+1382,Sakshi Mehta,Diploma (IT),CERT0382,Python,53,92,Intermediate,Intermediate,2023-11-07
+1383,Ananya Srivastava,M.Tech (CS),CERT0383,Web Development,50,54,Beginner,Beginner,2023-03-10
+1384,Vivaan Nair,B.Sc (IT),CERT0384,Java,59,68,Intermediate,Intermediate,2023-05-17
+1385,Deepak Sharma,Diploma (IT),CERT0385,Python,46,54,Beginner,Beginner,2024-10-22
+1386,Ritika Bose,M.Tech (CS),CERT0386,Python,45,52,Beginner,Beginner,2022-08-10
+1387,Neha Srivastava,B.Tech (CSE),CERT0387,Java,74,61,Intermediate,Intermediate,2022-07-27
+1388,Aditya Gupta,M.Tech (CS),CERT0388,Cloud Computing,97,83,Advanced,Advanced,2025-09-09
+1389,Ankit Bose,BBA,CERT0389,Cloud Computing,67,74,Intermediate,Intermediate,2024-12-15
+1390,Manav Iyer,Diploma (IT),CERT0390,Web Development,55,69,Intermediate,Intermediate,2024-05-26
+1391,Priya Reddy,M.Tech (CS),CERT0391,Machine Learning,75,82,Intermediate,Intermediate,2024-06-11
+1392,Vivaan Nair,B.Tech (IT),CERT0392,SQL,36,77,Beginner,Beginner,2022-12-25
+1393,Manav Khan,Diploma (IT),CERT0393,"Cloud Computing, Web Development",48,50,Intermediate,Beginner,2025-10-21
+1394,Arjun Bose,B.Tech (IT),CERT0394,Android Development,81,93,Advanced,Advanced,2025-05-01
+1395,Neha Ghosh,MBA,CERT0395,Data Science,78,74,Intermediate,Intermediate,2025-07-30
+1396,Sai Sharma,MCA,CERT0396,Android Development,67,97,Advanced,Advanced,2025-07-19
+1397,Nikita Reddy,Diploma (IT),CERT0397,Python,38,52,Beginner,Beginner,2024-06-22
+1398,Kavya Chaudhary,MBA,CERT0398,"Python, Android Development",39,53,Beginner,Beginner,2025-07-13
+1399,Ankit Bhatia,M.Tech (CS),CERT0399,"Java, Python",41,74,Beginner,Beginner,2024-05-29
+1400,Tanya Patel,BCA,CERT0400,"Excel, Machine Learning",55,71,Advanced,Intermediate,2024-04-02
+1401,Sneha Khan,Diploma (IT),CERT0401,Machine Learning,67,72,Intermediate,Intermediate,2023-05-10
+1402,Priya Desai,Diploma (IT),CERT0402,Android Development,31,27,Beginner,Beginner,2025-07-09
+1403,Sai Desai,MCA,CERT0403,"Data Science, Web Development",70,87,Intermediate,Intermediate,2024-06-26
+1404,Neha Malhotra,MBA,CERT0404,"Data Science, SQL",51,63,Beginner,Beginner,2022-12-24
+1405,Karan Ghosh,BCA,CERT0405,"Python, Android Development",49,52,Beginner,Beginner,2022-10-17
+1406,Aditi Kumar,MCA,CERT0406,"SQL, DevOps",85,68,Intermediate,Intermediate,2022-11-05
+1407,Deepak Kumar,B.Tech (IT),CERT0407,SQL,66,66,Intermediate,Intermediate,2025-10-16
+1408,Maya Kapoor,B.Tech (IT),CERT0408,Machine Learning,52,40,Beginner,Beginner,2024-11-28
+1409,Sai Nair,B.Tech (CSE),CERT0409,Web Development,67,100,Beginner,Advanced,2023-09-29
+1410,Arjun Srivastava,B.Tech (IT),CERT0410,"Web Development, DevOps",44,48,Intermediate,Beginner,2023-06-17
+1411,Neha Chaudhary,B.Tech (CSE),CERT0411,SQL,61,61,Intermediate,Intermediate,2022-08-27
+1412,Rahul Joshi,MCA,CERT0412,Cloud Computing,77,96,Advanced,Advanced,2025-05-29
+1413,Rahul Srivastava,BCA,CERT0413,"Web Development, Cloud Computing",82,58,Intermediate,Intermediate,2023-10-09
+1414,Ankit Verma,MBA,CERT0414,SQL,37,48,Beginner,Beginner,2022-11-09
+1415,Vivaan Patel,B.Sc (IT),CERT0415,Machine Learning,82,78,Advanced,Advanced,2022-11-15
+1416,Aarav Reddy,BBA,CERT0416,Machine Learning,87,98,Advanced,Advanced,2023-04-20
+1417,Riya Kapoor,B.Sc (IT),CERT0417,"Machine Learning, DevOps",63,47,Beginner,Beginner,2024-10-13
+1418,Rahul Khan,B.Tech (CSE),CERT0418,Web Development,40,52,Beginner,Beginner,2023-01-03
+1419,Pooja Sharma,BBA,CERT0419,"Excel, Java",83,75,Intermediate,Intermediate,2022-04-19
+1420,Aditya Ghosh,Diploma (IT),CERT0420,Java,72,71,Advanced,Intermediate,2022-11-07
+1421,Riya Srivastava,B.Tech (IT),CERT0421,Java,55,47,Beginner,Beginner,2023-07-27
+1422,Rahul Ghosh,BCA,CERT0422,"Cloud Computing, Python",71,84,Intermediate,Intermediate,2025-01-23
+1423,Sai Gupta,B.Tech (IT),CERT0423,Android Development,94,93,Advanced,Advanced,2022-11-25
+1424,Meera Ghosh,B.Tech (CSE),CERT0424,Excel,68,71,Beginner,Intermediate,2022-11-05
+1425,Aditya Nair,MCA,CERT0425,SQL,66,84,Beginner,Intermediate,2025-04-01
+1426,Sai Reddy,MBA,CERT0426,"DevOps, Machine Learning",55,78,Intermediate,Intermediate,2025-05-02
+1427,Aditi Sharma,Diploma (IT),CERT0427,DevOps,54,69,Intermediate,Intermediate,2023-06-23
+1428,Isha Bhatia,BBA,CERT0428,Java,80,57,Intermediate,Intermediate,2025-09-02
+1429,Rohan Mehta,BCA,CERT0429,Python,49,54,Beginner,Beginner,2024-01-03
+1430,Shreya Sharma,B.Sc (IT),CERT0430,Web Development,63,46,Beginner,Beginner,2025-05-17
+1431,Rohan Gupta,MCA,CERT0431,Data Science,41,54,Beginner,Beginner,2023-12-23
+1432,Vivaan Nair,M.Tech (CS),CERT0432,SQL,75,80,Intermediate,Intermediate,2024-02-16
+1433,Vivaan Nair,MBA,CERT0433,DevOps,48,71,Beginner,Beginner,2024-02-17
+1434,Aditya Bhatia,BCA,CERT0434,Excel,48,47,Beginner,Beginner,2024-06-11
+1435,Vivaan Joshi,B.Tech (CSE),CERT0435,"Android Development, Cloud Computing",65,68,Intermediate,Intermediate,2023-03-06
+1436,Sai Reddy,B.Tech (CSE),CERT0436,Web Development,65,69,Intermediate,Intermediate,2024-12-03
+1437,Sakshi Kapoor,B.Tech (IT),CERT0437,Data Science,84,95,Advanced,Advanced,2024-06-27
+1438,Neha Bose,B.Tech (IT),CERT0438,Cloud Computing,37,60,Beginner,Beginner,2025-10-23
+1439,Ritika Verma,BBA,CERT0439,Excel,85,86,Advanced,Advanced,2025-07-07
+1440,Varun Nair,Diploma (IT),CERT0440,Excel,77,72,Intermediate,Intermediate,2022-02-22
+1441,Aarav Iyer,Diploma (IT),CERT0441,Machine Learning,79,83,Advanced,Advanced,2025-04-19
+1442,Sakshi Khan,MCA,CERT0442,SQL,49,68,Intermediate,Beginner,2022-09-19
+1443,Ishaan Ghosh,B.Tech (IT),CERT0443,Machine Learning,52,30,Beginner,Beginner,2024-09-18
+1444,Rohan Malhotra,MBA,CERT0444,"Excel, Web Development",50,56,Beginner,Beginner,2023-07-07
+1445,Rahul Iyer,M.Tech (CS),CERT0445,Machine Learning,50,67,Beginner,Beginner,2023-09-01
+1446,Deepak Srivastava,Diploma (IT),CERT0446,"Web Development, Data Science",78,93,Advanced,Advanced,2022-01-23
+1447,Aarav Mehta,B.Tech (CSE),CERT0447,Data Science,85,93,Advanced,Advanced,2023-03-06
+1448,Deepak Patel,BCA,CERT0448,"Machine Learning, SQL",90,84,Advanced,Advanced,2024-02-22
+1449,Aarav Iyer,B.Tech (IT),CERT0449,"Machine Learning, Excel",90,80,Advanced,Advanced,2023-04-19
+1450,Maya Gupta,BBA,CERT0450,Android Development,81,90,Advanced,Advanced,2025-07-17
+1451,Pooja Mehta,MBA,CERT0451,Excel,53,60,Beginner,Beginner,2022-06-07
+1452,Ankit Bose,BBA,CERT0452,Excel,61,64,Intermediate,Intermediate,2025-02-06
+1453,Ritika Nair,BCA,CERT0453,"Cloud Computing, Python",52,61,Beginner,Beginner,2024-01-09
+1454,Aditi Iyer,Diploma (IT),CERT0454,Python,47,54,Beginner,Beginner,2025-04-08
+1455,Dev Singh,MBA,CERT0455,"DevOps, Web Development",82,83,Advanced,Advanced,2024-05-22
+1456,Ananya Chaudhary,B.Sc (IT),CERT0456,"Excel, Cloud Computing",82,79,Advanced,Advanced,2024-11-10
+1457,Pooja Kumar,BCA,CERT0457,DevOps,96,84,Advanced,Advanced,2023-07-15
+1458,Sneha Kapoor,Diploma (IT),CERT0458,"Java, Python",59,66,Advanced,Intermediate,2024-09-22
+1459,Ankit Chaudhary,BCA,CERT0459,Data Science,85,61,Beginner,Intermediate,2022-02-21
+1460,Arjun Bose,B.Sc (IT),CERT0460,Data Science,66,92,Intermediate,Intermediate,2025-09-13
+1461,Nikita Khan,BBA,CERT0461,DevOps,93,63,Advanced,Intermediate,2024-09-18
+1462,Tanya Sharma,B.Sc (IT),CERT0462,"Java, Python",52,58,Beginner,Beginner,2022-03-18
+1463,Sneha Khan,BCA,CERT0463,"DevOps, Data Science",88,96,Advanced,Advanced,2024-04-09
+1464,Manav Singh,MCA,CERT0464,DevOps,57,44,Beginner,Beginner,2025-03-22
+1465,Ananya Kumar,BCA,CERT0465,"Web Development, Machine Learning",73,94,Beginner,Advanced,2022-04-07
+1466,Rahul Verma,MCA,CERT0466,Machine Learning,42,64,Beginner,Beginner,2024-03-25
+1467,Rahul Chaudhary,B.Sc (IT),CERT0467,SQL,73,80,Intermediate,Intermediate,2024-12-24
+1468,Sakshi Chaudhary,BCA,CERT0468,Web Development,55,75,Intermediate,Intermediate,2025-10-01
+1469,Dev Gupta,B.Sc (IT),CERT0469,"SQL, Machine Learning",64,60,Intermediate,Intermediate,2023-10-30
+1470,Sai Chaudhary,B.Tech (IT),CERT0470,Cloud Computing,52,45,Beginner,Beginner,2023-12-28
+1471,Deepak Verma,B.Tech (IT),CERT0471,SQL,73,98,Advanced,Advanced,2025-04-16
+1472,Ritika Joshi,M.Tech (CS),CERT0472,Python,50,61,Beginner,Beginner,2023-08-11
+1473,Deepak Gupta,B.Tech (IT),CERT0473,Python,58,40,Beginner,Beginner,2024-07-12
+1474,Vivaan Chaudhary,B.Tech (CSE),CERT0474,"DevOps, Data Science",48,48,Beginner,Beginner,2023-01-22
+1475,Meera Kapoor,MBA,CERT0475,Android Development,51,75,Intermediate,Intermediate,2024-07-01
+1476,Ritika Reddy,MCA,CERT0476,"Excel, Android Development",58,72,Intermediate,Intermediate,2022-04-19
+1477,Rohan Verma,B.Tech (IT),CERT0477,Excel,46,64,Advanced,Beginner,2024-02-03
+1478,Vivaan Srivastava,Diploma (IT),CERT0478,Data Science,56,63,Beginner,Beginner,2024-05-13
+1479,Aditi Bose,BBA,CERT0479,DevOps,93,89,Advanced,Advanced,2023-03-27
+1480,Vivaan Ghosh,BCA,CERT0480,"Android Development, Excel",34,55,Beginner,Beginner,2022-03-25
+1481,Deepak Desai,BCA,CERT0481,"Cloud Computing, DevOps",63,70,Intermediate,Intermediate,2025-05-31
+1482,Rahul Gupta,B.Tech (IT),CERT0482,Machine Learning,90,61,Intermediate,Intermediate,2022-02-18
+1483,Ankit Verma,MCA,CERT0483,"Web Development, Java",66,60,Advanced,Intermediate,2023-06-22
+1484,Sneha Reddy,BBA,CERT0484,"Web Development, Android Development",64,58,Intermediate,Intermediate,2025-09-23
+1485,Nikita Malhotra,MBA,CERT0485,"DevOps, Android Development",56,64,Intermediate,Intermediate,2024-04-17
+1486,Ritika Mehta,BCA,CERT0486,DevOps,98,95,Advanced,Advanced,2025-10-05
+1487,Vivaan Chaudhary,B.Tech (CSE),CERT0487,"Machine Learning, Java",73,55,Intermediate,Intermediate,2022-08-30
+1488,Ishaan Kapoor,BBA,CERT0488,Excel,82,82,Advanced,Advanced,2022-05-22
+1489,Aditya Nair,B.Tech (IT),CERT0489,Web Development,92,81,Advanced,Advanced,2024-01-25
+1490,Ritika Kapoor,BCA,CERT0490,Python,34,47,Intermediate,Beginner,2022-09-26
+1491,Kavya Bose,BBA,CERT0491,Java,91,91,Advanced,Advanced,2023-09-03
+1492,Shreya Verma,B.Tech (CSE),CERT0492,Cloud Computing,79,85,Advanced,Advanced,2025-05-30
+1493,Dev Singh,B.Tech (IT),CERT0493,Java,48,58,Advanced,Beginner,2022-07-20
+1494,Varun Kapoor,B.Tech (CSE),CERT0494,Excel,52,57,Beginner,Beginner,2024-02-18
+1495,Dev Iyer,MCA,CERT0495,Machine Learning,49,51,Advanced,Beginner,2022-06-11
+1496,Dev Chaudhary,Diploma (IT),CERT0496,Excel,100,79,Advanced,Advanced,2023-06-29
+1497,Sneha Srivastava,BCA,CERT0497,Machine Learning,82,100,Intermediate,Advanced,2023-05-28
+1498,Aditya Kapoor,M.Tech (CS),CERT0498,Web Development,64,74,Advanced,Intermediate,2022-09-29
+1499,Ritika Patel,B.Tech (IT),CERT0499,DevOps,72,60,Intermediate,Intermediate,2023-10-22
+1500,Rohan Malhotra,Diploma (IT),CERT0500,Python,81,43,Intermediate,Intermediate,2025-08-15

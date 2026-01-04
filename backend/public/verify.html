@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Certificate Verification</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    .status { font-size: 24px; font-weight: bold; margin-bottom: 20px; }
+    .real { color: green; }
+    .fake { color: red; }
+    .info { border: 1px solid #ddd; display: inline-block; padding: 20px; border-radius: 8px; text-align: left; }
+  </style>
+</head>
+<body>
+  <div id="result">Verifying...</div>
+  <div id="debug" style="color: #666; font-size: 12px; margin-top: 20px;"></div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const certId = params.get("certId");
+
+    if (!certId) {
+      document.getElementById("result").innerHTML =
+        '<div class="status fake">Invalid QR Code (No Certificate ID)</div>';
+      throw new Error("certId missing");
+    }
+
+
+    // ⚠️ Replace 'localhost' with your PC's IP (e.g., 192.168.1.15) for phone access
+    const API_BASE = "http://10.58.28.174:5000/api"; 
+    fetch(`${API_BASE}/verify/${certId}`)
+      .then(res => {
+        if (!res.ok) throw new Error("Certificate ID not found in Ledger");
+        return res.json();
+      })
+      .then(data => {
+        if (data.aiMatch) {
+          document.getElementById("result").innerHTML = `
+            <div class="status real">Certificate is REAL (Verified on Blockchain)</div>
+            <div class="info">
+              <h3>Student: ${data.studentName}</h3>
+              <p>Course: ${data.courseName}</p>
+            </div>
+          `;
+        } else {
+          document.getElementById("result").innerHTML =
+            '<div class="status fake">Certificate is FAKE / Not Found</div>';
+        }
+      })
+      .catch((err) => {
+        document.getElementById("result").innerHTML =
+          '<div class="status fake">Certificate is FAKE / Not Found</div>';
+        document.getElementById("debug").innerText = "System Message: " + err.message;
+      });
+  </script>
+</body>
+</html>
